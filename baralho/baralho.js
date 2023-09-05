@@ -1,5 +1,5 @@
 const baralho = []
-let opcao = " "
+let opcao = ""
 
 do {
     opcao = prompt(

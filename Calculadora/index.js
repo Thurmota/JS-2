@@ -1,4 +1,4 @@
-const entrada1 = prompt("Digite o primeir número: ")
+const entrada1 = prompt("Digite o primeiro número: ")
 const entrada2 = prompt("Digite o segundo número: ")
 
 const x = parseFloat(entrada1)
@@ -10,7 +10,7 @@ const divisao = x / y
 const multiplicacao = x * y
 
 alert(
-    "Resultados:\n" + 
+    "Resultados:\n" +
     "\nSoma: " + soma +
     "\nSubtração" + subtracao +
     "\nMultiplicação: " + multiplicacao +
